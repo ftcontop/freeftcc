@@ -25,7 +25,7 @@ local Config = {
     KeyFile = "ftchub/key.txt",
     WorkinkURL = "https://work.ink/21KD/free-script-ftchub",
     DiscordURL = "https://discord.gg/Y2EUVMxKre",
-    ScriptURL = "https://raw.githubusercontent.com/ftcontop/freeftc/main/type.lua"
+    ScriptURL = "https://raw.githubusercontent.com/ftcontop/ihatemylife/refs/heads/main/UF"
 }
 
 -- ========================================
